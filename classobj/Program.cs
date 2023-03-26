@@ -17,9 +17,9 @@ namespace classobj
             mobil1.JumlahPintu = 4;
             mobil1.Merk = "Jeep";
             mobil1.Model = "Rubicon";
-            mobil1.TahunKeluar = 2021;
+            mobil1.TahunKeluar = 2018;
             
-            mobil1.Gas(80);
+            mobil1.Gas(120);
             mobil1.Klakson("poom");
             mobil1.Tampilkaninfo();
 
