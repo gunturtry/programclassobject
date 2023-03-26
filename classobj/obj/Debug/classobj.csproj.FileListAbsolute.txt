@@ -1,0 +1,8 @@
+D:\AMIKOM\SEMESTER2\pemrograman\coding\classobj\classobj\bin\Debug\classobj.exe.config
+D:\AMIKOM\SEMESTER2\pemrograman\coding\classobj\classobj\bin\Debug\classobj.exe
+D:\AMIKOM\SEMESTER2\pemrograman\coding\classobj\classobj\bin\Debug\classobj.pdb
+D:\AMIKOM\SEMESTER2\pemrograman\coding\classobj\classobj\obj\Debug\classobj.csproj.AssemblyReference.cache
+D:\AMIKOM\SEMESTER2\pemrograman\coding\classobj\classobj\obj\Debug\classobj.csproj.SuggestedBindingRedirects.cache
+D:\AMIKOM\SEMESTER2\pemrograman\coding\classobj\classobj\obj\Debug\classobj.csproj.CoreCompileInputs.cache
+D:\AMIKOM\SEMESTER2\pemrograman\coding\classobj\classobj\obj\Debug\classobj.exe
+D:\AMIKOM\SEMESTER2\pemrograman\coding\classobj\classobj\obj\Debug\classobj.pdb
